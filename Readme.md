@@ -33,9 +33,14 @@ git commit -m "own text"
 git status
 ```
 
-### To creat new repo
+### To initialise new repo
 
 ```bash
 git init
 ```
 
+### To know previous commits
+
+```bash
+git log
+```
