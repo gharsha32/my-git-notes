@@ -12,7 +12,30 @@ git clone my-repo-ssh-url
 
 ```bash
 
-git add filename
+git add <filename>
 
+```
+
+### To stage multiple files
+
+```bash
+git add <filename1> <filename2> <filename3> ...
+```
+### To commit a file
+
+```bash
+git commit -m "own text"
+```
+
+### To know the status of work
+
+```bash
+git status
+```
+
+### To creat new repo
+
+```bash
+git init
 ```
 
